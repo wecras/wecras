@@ -1,4 +1,4 @@
-## Opa! Eu sou o Cristian.
+## Olá! Eu sou o Cristian.
 
 - Idade: 21.
 - Estudando JavaScript.
