@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Cristian.
 
-- Idade: 21.
-- Estudando JavaScript.
-- Atualmente desempregado.
-- Cursando Ciências da Computação.
+- Idade: 23.
+- Estudando JavaScript || API || Express/sequelize || SQLite/MongoDB.
+- Cursando Análise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="wecras-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
